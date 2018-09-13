@@ -33,6 +33,11 @@ or add the following to your `composer.json` file :
 "laravelium/sitemap": "2.7.*"
 ```
 
+#### For Laravel 4
+```json
+"laravelium/sitemap": "2.4.*"
+```
+
 Publish needed assets (styles, views, config files) :
 
 ```bash
