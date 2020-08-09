@@ -13,29 +13,29 @@ A not so simple sitemap generator for Laravel.
 Run the following command and provide the latest stable version (e.g v3.0.1) :
 
 ```bash
-composer require laravelium/sitemap
+composer require pbh/laravel-sitemap
 ```
 
 or add the following to your `composer.json` file :
 
 #### For Laravel 5.7
 ```json
-"laravelium/sitemap": "3.0.*"
+"pbh/laravel-sitemap": "3.0.*"
 ```
 
 #### For Laravel 5.6
 ```json
-"laravelium/sitemap": "2.8.*"
+"pbh/laravel-sitemap": "2.8.*"
 ```
 
 #### For Laravel 5.5
 ```json
-"laravelium/sitemap": "2.7.*"
+"pbh/laravel-sitemap": "2.7.*"
 ```
 
 #### For Laravel 4
 ```json
-"laravelium/sitemap": "2.4.*"
+"pbh/laravel-sitemap": "2.4.*"
 ```
 
 Publish needed assets (styles, views, config files) :
